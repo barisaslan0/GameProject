@@ -43,8 +43,8 @@ namespace GameProject
             Sale sale = new Sale
             {
                 Gamer = gamer.FirstName + gamer.LastName,
-                GameName = game2.GameName,
-                GamePrice = game2.GamePrice
+                GameName = game3.GameName,
+                GamePrice = game3.GamePrice
             };
 
 
